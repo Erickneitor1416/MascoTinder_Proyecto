@@ -32,7 +32,7 @@
 
 .display-mensajes {
 	display: grid;
-	grid-template-rows: 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr 1fr;
 	overflow-y: scroll;
 	width: 685px; 
 	height: 340px;
